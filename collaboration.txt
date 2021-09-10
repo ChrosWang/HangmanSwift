@@ -1,0 +1,2 @@
+1. Some ideas adapted from: https://github.com/thompsonate/Hangman 
+Thompsonate. ¡°Thompsonate/Hangman.¡± GitHub, 21 Nov. 2017, github.com/thompsonate/Hangman.

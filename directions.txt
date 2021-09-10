@@ -1,0 +1,1 @@
+Swift code cannot really run on Linux without Xcode. Our program used the Xcode's storyboard which allow us to simulate the output. The program file is too large for radius so I decided only submit two that I modified.
